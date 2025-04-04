@@ -1,0 +1,9 @@
+sounddevice 
+librosa
+numpy
+joblib
+matplotlib 
+scikit-learn 
+tensorflow 
+torch 
+torchaudio
